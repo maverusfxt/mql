@@ -15,3 +15,14 @@ FXChoice-Pro Demo
 ABCD
 
 Change made by Jeff to test merge.
+
+Ideas for EAs
+=============
+- If currency moves quickly (e.g. 10 pips in a second or two) against a trade, close it. Open a new trade in the new direction?
+- Open a hedge trade when a pending order is activated.
+- Close a hedge trade when a market or activated pending order is closed.
+
+Ideas for Scripts
+=================
+- Open a hedge trade when a market order is opened.
+- Open a market order with a 10 pip take profit
